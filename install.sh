@@ -136,4 +136,8 @@ mv ~/.zshrc ~/.zshrc.bak
 echo "Backing up wallpapers..."
 mv ~/.local/share/wallpapers ~/.local/share/wallpapers.bak
 
+# Apply dotfiles configurations
+echo -e '\033[1mApplying dotfiles...\033[0m'
 stow */
+
+echo -e '\033[1mProcess complete!\033[0m'
