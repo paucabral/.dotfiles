@@ -1,0 +1,6 @@
+[Plugin-org.kde.ActivityManager.Resources.Scoring]
+off-the-record-activities=
+
+[Plugin-org.kde.ActivityManager.VirtualDesktopSwitch]
+desktop-for-36b245b8-4281-42b6-af14-c4c4325ff393=1
+desktop-for-aea4c088-214d-4971-a57e-329058869f2e=1

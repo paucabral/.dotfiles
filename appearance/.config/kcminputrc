@@ -1,0 +1,6 @@
+[Libinput][1133][49298][Logitech G102 LIGHTSYNC Gaming Mouse]
+PointerAcceleration=0.800
+PointerAccelerationProfile=1
+
+[Libinput][1267][12410][ELAN1203:00 04F3:307A Touchpad]
+DisableWhileTyping=false

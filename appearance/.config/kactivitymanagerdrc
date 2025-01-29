@@ -1,0 +1,10 @@
+[activities]
+36b245b8-4281-42b6-af14-c4c4325ff393=Personal
+aea4c088-214d-4971-a57e-329058869f2e=Work
+
+[activities-icons]
+36b245b8-4281-42b6-af14-c4c4325ff393=code-class-symbolic
+aea4c088-214d-4971-a57e-329058869f2e=office-report-symbolic
+
+[main]
+currentActivity=36b245b8-4281-42b6-af14-c4c4325ff393
