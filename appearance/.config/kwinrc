@@ -18,7 +18,7 @@ shakecursorEnabled=false
 gapBottom=10
 gapLeft=10
 gapRight=10
-gapTop=10
+gapTop=19
 
 [Tiling]
 padding=10
@@ -30,7 +30,7 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.5859375000000008},{"la
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.8468749999999999},{"width":0.15312500000000007}]}
 
 [Tiling][6d0ff22d-3954-5aed-9113-51bd0e9bc9df]
-tiles={"layoutDirection":"vertical","tiles":[{"height":0.4552083333333333},{"height":0.33854166666666674,"layoutDirection":"horizontal","tiles":[{"width":0.4472222222222222},{"width":0.5527777777777778}]},{"height":0.2062499999999985}]}
+tiles={"layoutDirection":"vertical","tiles":[{"height":0.47343749999999996},{"height":0.3203125000000001,"layoutDirection":"horizontal","tiles":[{"width":0.4472222222222222},{"width":0.5527777777777778}]},{"height":0.2062499999999985}]}
 
 [Xwayland]
 Scale=1

@@ -90,6 +90,10 @@ ForegroundNormal=248,248,242
 ForegroundPositive=80,250,122
 ForegroundVisited=68,71,90
 
+[DirSelect Dialog]
+DirSelectDialog Size=819,591
+History Items[$e]=file:$HOME/Videos
+
 [General]
 ColorSchemeHash=154cb4d8d3e569860cc378f981d35f572c5b9e1d
 UseSystemBell=true
