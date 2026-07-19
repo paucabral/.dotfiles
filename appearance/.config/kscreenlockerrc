@@ -1,3 +1,8 @@
 [Daemon]
 Autolock=false
 Timeout=0
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/home/paucabral/Pictures/Wallpapers/miles-gwen.png
+PreviewImage=/home/paucabral/Pictures/Wallpapers/miles-gwen.png
+SlidePaths=/home/paucabral/.local/share/wallpapers/,/usr/share/wallpapers/

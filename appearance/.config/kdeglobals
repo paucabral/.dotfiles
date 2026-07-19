@@ -90,10 +90,6 @@ ForegroundNormal=248,248,242
 ForegroundPositive=80,250,122
 ForegroundVisited=68,71,90
 
-[DirSelect Dialog]
-DirSelectDialog Size=819,591
-History Items[$e]=file:$HOME/Videos
-
 [General]
 ColorSchemeHash=154cb4d8d3e569860cc378f981d35f572c5b9e1d
 UseSystemBell=true
@@ -112,19 +108,16 @@ Allow Expansion=false
 Automatically select filename extension=true
 Breadcrumb Navigation=true
 Decoration position=2
-LocationCombo Completionmode=5
-PathCombo Completionmode=5
-Show Bookmarks=false
 Show Full Path=false
 Show Inline Previews=true
 Show Preview=false
 Show Speedbar=true
 Show hidden files=false
-Sort by=Name
+Sort by=Date
 Sort directories first=true
 Sort hidden files last=false
 Sort reversed=false
-Speedbar Width=140
+Speedbar Width=127
 View Style=DetailTree
 
 [WM]
