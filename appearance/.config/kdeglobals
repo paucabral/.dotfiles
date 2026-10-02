@@ -93,9 +93,14 @@ ForegroundVisited=68,71,90
 [General]
 ColorSchemeHash=154cb4d8d3e569860cc378f981d35f572c5b9e1d
 UseSystemBell=true
+XftAntialias=true
 XftHintStyle=hintslight
 XftSubPixel=rgb
-fixed=MesloLGL Nerd Font Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+fixed=MesloLGS Nerd Font Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+font=Noto Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+menuFont=Noto Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+smallestReadableFont=Noto Sans,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+toolBarFont=Noto Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
 
 [Icons]
 Theme=Tela-circle-dracula-dark
@@ -113,7 +118,7 @@ Show Inline Previews=true
 Show Preview=false
 Show Speedbar=true
 Show hidden files=false
-Sort by=Date
+Sort by=Name
 Sort directories first=true
 Sort hidden files last=false
 Sort reversed=false
@@ -123,6 +128,7 @@ View Style=DetailTree
 [WM]
 activeBackground=47,52,63
 activeBlend=47,52,63
+activeFont=Noto Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
 activeForeground=211,218,227
 inactiveBackground=47,52,63
 inactiveBlend=47,52,63
